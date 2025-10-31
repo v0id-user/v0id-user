@@ -1,5 +1,5 @@
 # Hey there, I'm #V0ID
-Software engineer with years of experience in low-level programming, networking, DevOps, and product/web design. Always learning, building, and sharing along the way.
+Software engineer with years of experience in low-level programming, networking, DevOps. Always learning, building, and sharing along the way.
 
 - Visit my personal website [here](https://www.v0id.me)🌐
 
