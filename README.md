@@ -1,5 +1,5 @@
 # Hey there, I'm #V0ID
-I'm a passionate software engineer and designer( trying my best at design 🥲), always looking to improve. With almost 4 years of coding experience, I'm into low-level programming, networking (TCP, protocols, etc), DevOps, and product & web design. I love learning new things, experimenting with ideas, and sharing what I learn along the way! 🤗
+Software engineer with years of experience in low-level programming, networking, DevOps, and product/web design. Always learning, building, and sharing along the way.
 
 - Visit my personal website [here](https://www.v0id.me)🌐
 
