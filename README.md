@@ -22,6 +22,6 @@ Software engineer with years of experience in low-level programming, networking,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0id-user&show_icons=true&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats-sage-six-40.vercel.app/api?username=v0id-user&show_icons=true&theme=dark&hide_border=true" width="400">
   <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=v0id-user&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" width="400">
 </p>
